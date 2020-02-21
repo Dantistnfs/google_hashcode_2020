@@ -4,7 +4,7 @@ My google hash code 2020 solution
 ## Book scanning 📚
 Written in Python
 
-<img src="cover.jpg">
+<img src="cover.png">
 
 ### Score
 Solution for the Online Qualification Round of Google Hash Code 2020 - Score: 24,706,125
